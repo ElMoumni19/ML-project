@@ -249,7 +249,6 @@ SP PDB_id chain_PDB   chain_auth  UniProt             Conf
 +  5l6p   A           A           P54753              WCD                
 +  5l6o   A           A           P54753              WCD               
 +  5kmn   A           A           P04629              WCD               
-+  5kaw   A           A           A0A0H3JRN6          CIDI         
 +  3u6j   A           A           P35968              CIDO             
 +  3o23   A           A           P08069              CIDO                  
 +  3npc   A           A           P45984              CIDO                    
